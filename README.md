@@ -1,4 +1,4 @@
-# c
+# ProxiesGrabber
 
 ## Overview
 ProxiesGrabber is a Python package designed to scrape free proxy lists from various online sources. It uses multithreading to enhance performance and efficiently gather proxies.
