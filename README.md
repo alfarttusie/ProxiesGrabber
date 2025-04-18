@@ -24,7 +24,7 @@ pip install ProxiesGrabber
 
 ## Usage
 ```python
-from proxiesscraper import ProxiesGrabber
+from ProxiesGrabber import ProxiesGrabber
 
 scraper = ProxiesGrabber()
 print(scraper.list)  # List of formatted proxies

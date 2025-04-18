@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ProxiesGrabber",
-    version="1.0.4",
+    version="1.0.6",
     author="alfarttusie",
     author_email=" muhammed@alfarttusie.com",
     description="A Python package for scraping free proxy lists from various online sources.",
